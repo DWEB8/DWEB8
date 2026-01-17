@@ -22,25 +22,3 @@ Agrupa aquí tus herramientas más utilizadas. Puedes mantener todas o eliminar 
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-
-## 🚀 Proyectos Destacados
-
-✏️ Añade aquí tus proyectos más representativos (de 1 a 3). Incluye una breve descripción y tecnologías clave.
-
-💡 **Ejemplo:**
-
-### 📌 [TaskFlow - Gestor de tareas](https://github.com/tuusuario/taskflow)
-
-App de gestión de tareas colaborativa en tiempo real.  
-**Tecnologías:** React, Firebase, Tailwind CSS
-
-### 📌 [API REST de Películas](https://github.com/tuusuario/movies-api)
-
-API REST para explorar y filtrar películas con autenticación JWT.  
-**Tecnologías:** Node.js, Express, MongoDB
-
-## 📫 Contacto
-
-```md
-- 📧 Correo: [dweb8@sicas.com.mx](mailto:dweb8@sicas.com.mx)
-```
